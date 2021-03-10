@@ -1,0 +1,11 @@
+/home/alekc/eclipse-workspace/backend-bdtest-allure/src/main/java/backend_bdtest_allure/db/model/CategoriesExample.java
+/home/alekc/eclipse-workspace/backend-bdtest-allure/src/main/java/backend_bdtest_allure/util/RetrofitUtils.java
+/home/alekc/eclipse-workspace/backend-bdtest-allure/src/main/java/backend_bdtest_allure/db/model/ProductsExample.java
+/home/alekc/eclipse-workspace/backend-bdtest-allure/src/main/java/backend_bdtest_allure/db/model/Products.java
+/home/alekc/eclipse-workspace/backend-bdtest-allure/src/main/java/backend_bdtest_allure/util/PrettyLogger.java
+/home/alekc/eclipse-workspace/backend-bdtest-allure/src/main/java/backend_bdtest_allure/db/dao/CategoriesMapper.java
+/home/alekc/eclipse-workspace/backend-bdtest-allure/src/main/java/backend_bdtest_allure/db/model/Categories.java
+/home/alekc/eclipse-workspace/backend-bdtest-allure/src/main/java/backend_bdtest_allure/db/dao/ProductsMapper.java
+/home/alekc/eclipse-workspace/backend-bdtest-allure/src/main/java/backend_bdtest_allure/util/ConfigUtils.java
+/home/alekc/eclipse-workspace/backend-bdtest-allure/src/main/java/backend_bdtest_allure/util/DbUtils.java
+/home/alekc/eclipse-workspace/backend-bdtest-allure/src/main/java/backend_bdtest_allure/base/enums/CategoryType.java

@@ -1,0 +1,17 @@
+backend_bdtest_allure/db/model/CategoriesExample.class
+backend_bdtest_allure/db/model/CategoriesExample$Criteria.class
+backend_bdtest_allure/util/PrettyLogger.class
+backend_bdtest_allure/util/DbUtils.class
+backend_bdtest_allure/db/model/ProductsExample$Criterion.class
+backend_bdtest_allure/util/ConfigUtils.class
+backend_bdtest_allure/db/model/Categories.class
+backend_bdtest_allure/db/model/Products.class
+backend_bdtest_allure/util/RetrofitUtils.class
+backend_bdtest_allure/db/dao/CategoriesMapper.class
+backend_bdtest_allure/db/model/CategoriesExample$GeneratedCriteria.class
+backend_bdtest_allure/db/model/ProductsExample$GeneratedCriteria.class
+backend_bdtest_allure/db/model/ProductsExample$Criteria.class
+backend_bdtest_allure/db/model/CategoriesExample$Criterion.class
+backend_bdtest_allure/base/enums/CategoryType.class
+backend_bdtest_allure/db/dao/ProductsMapper.class
+backend_bdtest_allure/db/model/ProductsExample.class
